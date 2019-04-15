@@ -1,16 +1,27 @@
 {
   "name": "courserabootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "course on ce",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dygy",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.0",
-    "popper": "^1.0.1"
-  }
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dygy/courseraBootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dygy/courseraBootstrap/issues"
+  },
+  "homepage": "https://github.com/dygy/courseraBootstrap#readme"
 }
